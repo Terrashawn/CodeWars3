@@ -1,1 +1,1 @@
-# CodeWars3
+# CodeWars Solutions
